@@ -2,7 +2,7 @@
 
 A web application for visualizing B-rep geometry from STEP files. Upload a STEP file to view and interact with the 3D model in your browser, with options to toggle faces, edges, and vertices.
 
-![App demo]('./images/demo.gif')
+![App demo](./images/demo.gif)
 
 
 ## 📝 Repository Structure
