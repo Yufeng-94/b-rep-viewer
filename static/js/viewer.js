@@ -100,7 +100,6 @@ function handleFileUpload(file) {
             if (data.error) {
                 alert('Error: ' + data.error);
             } else {
-                currentMeshData = data;
                 visualizeModel(data);
                 // Hide drop zone after successful upload
                 document.getElementById('drop-zone').style.display = 'none';
